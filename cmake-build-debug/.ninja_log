@@ -1,0 +1,7 @@
+# ninja log v5
+9	319	7018271934202291	CMakeFiles/examPractice.dir/main.cpp.obj	b2b1cb06eae760e5
+4	317	7018271934182339	CMakeFiles/examPractice.dir/examPractice.cpp.obj	644fc22ef956df08
+319	404	7018271935040185	examPractice.exe	b2020c6dc0a3a8cf
+4	275	7018272468589587	CMakeFiles/hungerGamesAdventure.dir/hungerGamesAdventure.cpp.obj	db4b3c77a328d702
+0	289	7018272468734294	CMakeFiles/hungerGamesAdventure.dir/main.cpp.obj	b732a655d8f4e36d
+289	373	7018272469542259	hungerGamesAdventure.exe	9cf45e3b92621100

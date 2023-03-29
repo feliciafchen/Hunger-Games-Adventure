@@ -1,0 +1,3 @@
+C:/Users/felic/CLionProjects/hungerGamesAdventure/cmake-build-debug/CMakeFiles/hungerGamesAdventure.dir
+C:/Users/felic/CLionProjects/hungerGamesAdventure/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/felic/CLionProjects/hungerGamesAdventure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
